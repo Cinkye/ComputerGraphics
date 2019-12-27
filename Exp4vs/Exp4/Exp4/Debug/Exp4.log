@@ -1,0 +1,40 @@
+﻿  源.cpp
+C:\Users\Cink\Desktop\Graphics\Exp4\Exp4\源.cpp(277,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Cink\Desktop\Graphics\Exp4\Exp4\源.cpp(412,32): warning C4305: “-=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\Cink\Desktop\Graphics\Exp4\Exp4\源.cpp(414,32): warning C4305: “-=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\Cink\Desktop\Graphics\Exp4\Exp4\源.cpp(416,32): warning C4305: “-=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\Cink\Desktop\Graphics\Exp4\Exp4\源.cpp(418,32): warning C4305: “+=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\Cink\Desktop\Graphics\Exp4\Exp4\源.cpp(420,32): warning C4305: “+=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\Cink\Desktop\Graphics\Exp4\Exp4\源.cpp(422,32): warning C4305: “+=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\Cink\Desktop\Graphics\Exp4\Exp4\源.cpp(441,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Cink\Desktop\Graphics\Exp4\Exp4\源.cpp(442,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Cink\Desktop\Graphics\Exp4\Exp4\源.cpp(446,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Cink\Desktop\Graphics\Exp4\Exp4\源.cpp(447,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Cink\Desktop\Graphics\Exp4\Exp4\源.cpp(449,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Cink\Desktop\Graphics\Exp4\Exp4\源.cpp(450,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Cink\Desktop\Graphics\Exp4\Exp4\源.cpp(459,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Exp4.vcxproj -> C:\Users\Cink\Desktop\Graphics\Exp4\Debug\Exp4.exe

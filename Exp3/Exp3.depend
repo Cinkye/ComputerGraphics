@@ -1,0 +1,367 @@
+# depslib dependency file v1.0
+1572589312 source:d:\texts\计算机图形学\learnfromstart\main.cpp
+	"stb_image.h"
+	<iostream>
+	<cmath>
+	"shader.h"
+	<GL/glfw3.h>
+	<GL/glfw3native.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<ctime>
+
+1555352364 d:\codeblocks\mingw\include\gl\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1504632744 d:\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1504632748 d:\codeblocks\mingw\include\gl\gl.h
+
+1504632748 d:\codeblocks\mingw\include\gl\glext.h
+	<windows.h>
+
+1504632745 d:\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1504632745 d:\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1504632745 d:\codeblocks\mingw\include\winuser.h
+
+1504632745 d:\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1504632745 d:\codeblocks\mingw\include\winerror.h
+
+1504632744 d:\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1504632745 d:\codeblocks\mingw\include\_mingw.h
+
+1504632740 d:\codeblocks\mingw\include\basetsd.h
+
+1504632743 d:\codeblocks\mingw\include\pshpack4.h
+
+1504632743 d:\codeblocks\mingw\include\poppack.h
+
+1504632745 d:\codeblocks\mingw\include\winver.h
+
+1504632740 d:\codeblocks\mingw\include\dde.h
+
+1504632740 d:\codeblocks\mingw\include\dlgs.h
+
+1504632740 d:\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1504632743 d:\codeblocks\mingw\include\prsht.h
+
+1504632745 d:\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1504632745 d:\codeblocks\mingw\include\wincon.h
+
+1504632745 d:\codeblocks\mingw\include\winbase.h
+
+1504632745 d:\codeblocks\mingw\include\wingdi.h
+
+1504632745 d:\codeblocks\mingw\include\winnls.h
+
+1504632745 d:\codeblocks\mingw\include\winnetwk.h
+
+1504632745 d:\codeblocks\mingw\include\winreg.h
+
+1504632745 d:\codeblocks\mingw\include\winsvc.h
+
+1504632740 d:\codeblocks\mingw\include\cderr.h
+
+1504632740 d:\codeblocks\mingw\include\ddeml.h
+
+1504632741 d:\codeblocks\mingw\include\imm.h
+
+1504632742 d:\codeblocks\mingw\include\lzexpand.h
+
+1504632742 d:\codeblocks\mingw\include\mmsystem.h
+
+1504632742 d:\codeblocks\mingw\include\nb30.h
+
+1504632744 d:\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1504632744 d:\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1504632740 d:\codeblocks\mingw\include\basetyps.h
+
+1504632744 d:\codeblocks\mingw\include\rpcdcep.h
+
+1504632744 d:\codeblocks\mingw\include\rpcnsi.h
+
+1504632744 d:\codeblocks\mingw\include\rpcnterr.h
+
+1504632740 d:\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1504632744 d:\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1504632743 d:\codeblocks\mingw\include\pshpack2.h
+
+1504632745 d:\codeblocks\mingw\include\winperf.h
+
+1504632740 d:\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1504632744 d:\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1504632743 d:\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1504632745 d:\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1504632744 d:\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1504632744 d:\codeblocks\mingw\include\rpcnsip.h
+
+1504632745 d:\codeblocks\mingw\include\winspool.h
+
+1504632745 d:\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1504632745 d:\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1504632742 d:\codeblocks\mingw\include\mswsock.h
+
+1504632743 d:\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1504632743 d:\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1504632744 d:\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1504632743 d:\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1504632740 d:\codeblocks\mingw\include\cguid.h
+
+1504632743 d:\codeblocks\mingw\include\olectlid.h
+
+1504632743 d:\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1504632743 d:\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1504632743 d:\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1504632748 d:\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1281260224 d:\codeblocks\mingw\include\gl\glfw.h
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1570763062 source:d:\texts\计算机图形学\learnfromstart\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1504632744 d:\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1504632748 d:\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1570763062 d:\codeblocks\mingw\include\glad\glad.h
+	<KHR/khrplatform.h>
+
+1570763062 d:\codeblocks\mingw\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1504632741 d:\codeblocks\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1570809757 d:\texts\计算机图形学\learnfromstart\shader.h
+	<stdio.h>
+	<glad/glad.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1570809238 source:d:\texts\计算机图形学\learnfromstart\shader.cpp
+	"Shader.h"
+
+1571029044 d:\texts\计算机图形学\learnfromstart\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1570763062 source:d:\texts\计算机图形学\exp3\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1574946734 source:d:\texts\计算机图形学\exp3\main.cpp
+	"stb_image.h"
+	<iostream>
+	<cmath>
+	"shader.h"
+	<GL/glfw3.h>
+	<GL/glfw3native.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<ctime>
+
+1571029044 d:\texts\计算机图形学\exp3\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1570809757 d:\texts\计算机图形学\exp3\shader.h
+	<stdio.h>
+	<glad/glad.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1570809238 source:d:\texts\计算机图形学\exp3\shader.cpp
+	"Shader.h"
+

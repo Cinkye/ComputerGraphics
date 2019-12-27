@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1570760112 source:d:\texts\计算机图形学\exp1\vertexarray\src\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"glext.h"
+	<iostream>
+	<sstream>
+	<iomanip>
+
+1277575548 d:\texts\计算机图形学\exp1\vertexarray\src\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1333535358 d:\texts\计算机图形学\exp1\vertexarray\src\glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
